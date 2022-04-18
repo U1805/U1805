@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![u1805's GitHub stats](https://github-readme-stats.vercel.app/api?username=u1805)](https://github.com/U1805?tab=repositories)
 <!--
 **U1805/U1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
