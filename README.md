@@ -29,10 +29,10 @@
 -->
 
 <p align = "center">
-<p width="100vw">
-  <img height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=u1805&theme=nord_bright" />
-  <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u1805&theme=nord_bright" />
-</p>
+<div>
+  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=u1805&theme=nord_bright" />
+  <img width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u1805&theme=nord_bright" />
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/U1805/U1805/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/U1805/U1805/output/github-contribution-grid-snake.svg">
